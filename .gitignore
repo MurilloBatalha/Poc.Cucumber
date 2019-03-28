@@ -1,0 +1,20 @@
+# Java
+.idea/
+dependency-reduced-pom.xml
+
+# Node
+node_modules/
+yarn-error.log
+yarn.lock
+
+# .NET
+/.vs
+
+# Build/Release
+codesigning.asc
+.built
+.rsynced
+.release/
+
+# OS
+.DS_Store

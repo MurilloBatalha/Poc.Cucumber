@@ -1,0 +1,6 @@
+require 'httparty'
+require 'faker'
+require 'rspec'
+require 'pry'
+require 'digest'
+require 'date'
